@@ -9,10 +9,6 @@
 
 🧙‍♂️ 만든사람들
 
-**Team: 럭키세븐**
-
-### 팀원
-
 이형창(팀장), 조성국(팀원), 김지영(팀원), 김혜민(팀원)
 
 ---
@@ -81,8 +77,6 @@ $ yarn start
 ## ERD
 
 > [🔗ERDCloud에서 보기](https://www.erdcloud.com/d/iy4qEBaXCphs8ptRG)
-
-- DB 구축을 위한 ERD도 짜 보았습니다.
 
 #### 전체 ERD
 
